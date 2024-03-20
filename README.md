@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Prathamesh Lasulkar</h1>
+<h1 align="center">Hi 👋, I'm Mahesh Dongare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -18,15 +18,15 @@
 
 - 🤝 I’m looking for help with **...mastering ReactJS, solving algorithmic problems, understanding machine learning concepts, etc.**
 
-- 👨‍💻 All of my projects are available at [https://prathameshlasulkar.netlify.app/](https://prathameshlasulkar.netlify.app/)
+- 👨‍💻 All of my projects are available at [](https://mahesh-coder007.github.io/M.Personal-PortFolio/)
 
 - 😄 Pronouns: [... He/Him](... He/Him)
 
 - 💬 Ask me about **...example, JavaScript frameworks, web development best practices, AI/ML concepts, etc.**
 
-- 📫 How to reach me **... - Email: [prathamesh.lasulkar@gmail.com]**
+- 📫 How to reach me **... - Email: [dongaremahesh10@gmial.com]**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qHnU3sR1AFYg3Tlv9T7YyZj4-11tbYlq/view?usp=drive_link](https://drive.google.com/file/d/1qHnU3sR1AFYg3Tlv9T7YyZj4-11tbYlq/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **.. I once traveled to [a unique place] and tried [an interesting local dish] that became my favorite!**
 
