@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshlasulkar&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshlasulkar" /> </p>
+<p align="left"> <img src="" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pratham_4u" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_4u?logo=twitter&style=for-the-badge" alt="pratham_4u" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **...Web Devlopment**
 
@@ -32,9 +32,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratham_4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham_4u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathameshlasulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathameshlasulkar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pratham.4u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratham.4u/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratham.4u/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
